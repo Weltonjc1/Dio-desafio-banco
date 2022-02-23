@@ -1,3 +1,4 @@
+package br.com.dio.desafio.banco;
 
 public class ContaCorrente extends Conta {
 

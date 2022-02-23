@@ -1,3 +1,4 @@
+package br.com.dio.desafio.banco;
 
 public interface IConta {
 void sacar(double valor);

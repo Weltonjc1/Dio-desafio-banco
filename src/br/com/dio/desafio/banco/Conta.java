@@ -1,3 +1,4 @@
+package br.com.dio.desafio.banco;
 
 public abstract class Conta implements IConta {
 
